@@ -1845,6 +1845,8 @@ if game.PlaceId == 6403373529 then
     
     game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Welcome!",Text = "Welcome To Spider Hex Hub.",Icon = "rbxassetid://7733960981",Duration = 10})
     
+    local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
+    
     local Window = Library.CreateLib("Spider Hex Hub | The Dark Realms", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
