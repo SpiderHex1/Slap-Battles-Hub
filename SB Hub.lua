@@ -208,7 +208,7 @@ if game.PlaceId == 6403373529 then
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
     
-    local Window = Library.CreateLib("Spider Hex Hub | Slap Battles", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | Slap Battles", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
@@ -1010,7 +1010,7 @@ if game.PlaceId == 6403373529 then
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
     
-    local Window = Library.CreateLib("Spider Hex Hub | Slap Royale", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | Slap Royale", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
@@ -1611,7 +1611,7 @@ if game.PlaceId == 6403373529 then
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
     
-    local Window = Library.CreateLib("Spider Hex Hub | SB Test Server", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | SB Test Server", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
@@ -1679,7 +1679,7 @@ if game.PlaceId == 6403373529 then
                 game:GetService("GuiService"):ClearError()
             end)
     game.CoreGui.RobloxLoadingGUI:Destroy()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/KykyryzoB/KykyryzoB-Hub-SB/main/KykryzoB.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiderHex1/Slap-Battles-Hub/main/SB%20Hub.lua"))()
         ]])
     end
     game:GetService("TeleportService"):Teleport(9020359053)
@@ -1705,7 +1705,7 @@ if game.PlaceId == 6403373529 then
                 game:GetService("GuiService"):ClearError()
             end)
     game.CoreGui.RobloxLoadingGUI:Destroy()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/KykyryzoB/KykyryzoB-Hub-SB/main/KykryzoB.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiderHex1/Slap-Battles-Hub/main/SB%20Hub.lua"))()
     spawn(function()
         while true do
             game:GetService("GuiService"):ClearError()
@@ -1729,7 +1729,7 @@ if game.PlaceId == 6403373529 then
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
     
-    local Window = Library.CreateLib("Spider Hex Hub | SR Test Server", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | SR Test Server", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
@@ -1797,7 +1797,7 @@ if game.PlaceId == 6403373529 then
                 game:GetService("GuiService"):ClearError()
             end)
     game.CoreGui.RobloxLoadingGUI:Destroy()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/KykyryzoB/KykyryzoB-Hub-SB/main/KykryzoB.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiderHex1/Slap-Battles-Hub/main/SB%20Hub.lua"))()
     spawn(function()
         while true do
             game:GetService("GuiService"):ClearError()
@@ -1830,7 +1830,7 @@ if game.PlaceId == 6403373529 then
                 game:GetService("GuiService"):ClearError()
             end)
     game.CoreGui.RobloxLoadingGUI:Destroy()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/KykyryzoB/KykyryzoB-Hub-SB/main/KykryzoB.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiderHex1/Slap-Battles-Hub/main/SB%20Hub.lua"))()
         ]])
     end
     game:GetService("TeleportService"):Teleport(9020359053)
@@ -1845,7 +1845,7 @@ if game.PlaceId == 6403373529 then
     
     game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Welcome!",Text = "Welcome To Spider Hex Hub.",Icon = "rbxassetid://7733960981",Duration = 10})
     
-    local Window = Library.CreateLib("Spider Hex Hub | The Dark Realms", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | The Dark Realms", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
@@ -2001,7 +2001,7 @@ if game.PlaceId == 6403373529 then
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
     
-    local Window = Library.CreateLib("Spider Hex Hub | Elude Maze", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | Elude Maze", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
@@ -2346,7 +2346,7 @@ if game.PlaceId == 6403373529 then
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
     
-    local Window = Library.CreateLib("Spider Hex Hub | The Null Zone", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | The Null Zone", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
@@ -2523,7 +2523,7 @@ if game.PlaceId == 6403373529 then
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
     
-    local Window = Library.CreateLib("Spider Hex Hub | CHRISTMAST EVENT", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | CHRISTMAST EVENT", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
@@ -2646,7 +2646,7 @@ if game.PlaceId == 6403373529 then
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
     
-    local Window = Library.CreateLib("Spider Hex Hub | The Staff Application", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | The Staff Application", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
@@ -2759,7 +2759,7 @@ elseif game.PlaceId == 11520107397 then
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Giangplay/Script/main/Kavo.lua"))()
     
-    local Window = Library.CreateLib("Spider Hex Hub | Slap-Battles-KILLSTREAK-ONLY", "Synapse")
+    local Window = Library.CreateLib("Spider Hex Hub | Slap-Battles-KILLSTREAK-ONLY", "BloodTheme")
     
     local Tab = Window:NewTab("INFO")
     
